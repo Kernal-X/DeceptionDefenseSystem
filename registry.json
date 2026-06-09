@@ -1,0 +1,13 @@
+{
+  "/shared/finance_test/payroll.csv": {
+    "file_type": "csv",
+    "columns": [],
+    "content_type": "csv_financial_summary",
+    "realism": "high",
+    "realism_level": "high",
+    "use_llm_realism": true,
+    "size": "250KB",
+    "sensitivity": "high",
+    "real_os_path": "C:\\shared\\finance_test\\payroll.csv"
+  }
+}
